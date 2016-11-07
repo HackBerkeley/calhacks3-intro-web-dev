@@ -23,7 +23,7 @@ Welcome to Cal Hacks 3.0 and welcome to the Introduction to Web Development work
 
 ## Links
 
-[Introduction to Web Development - Cal Hacks 3.0 (Slides)](https://docs.google.com/a/berkeley.edu/presentation/d/17p44Vb4Hp4hzOrl-UeIbH-5m53w33Fg4Mx_bkcCIqBc/edit?usp=sharing)
+[Introduction to Web Development - Cal Hacks 3.0 (Slides)](https://docs.google.com/presentation/d/17p44Vb4Hp4hzOrl-UeIbH-5m53w33Fg4Mx_bkcCIqBc/edit?usp=sharing)
 
 [text-sim](ajayramesh.com/text-sim)
 
